@@ -3,7 +3,7 @@
 ## Introduction
 The **Social Network Graph Application** is a console-based Java program that simulates a social network. It allows users to create a virtual network of people, establish friendships, view connections, and even suggest new friendships based on existing relationships. This application models real-world relationships using graph data structures, making it a practical example of how computer science concepts apply in everyday scenarios.
 
-![Screenshot 2024-09-02 084943](https://github.com/user-attachments/assets/f85e7ce6-3524-4c2f-86ac-d37f6b527d63)
+![Screenshot 2024-12-09 121633](https://github.com/user-attachments/assets/8db00dc8-ef44-4ea8-b8c4-8ee341c0f80b)
 
 
 ## Features
